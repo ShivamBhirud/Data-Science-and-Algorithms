@@ -1,2 +1,2 @@
 # Data-Science-and-Algorithms
-Contains various algorithms of machine learning.
+Randomly trying Linear Regression on a Dataset picked from Kaggle. 
